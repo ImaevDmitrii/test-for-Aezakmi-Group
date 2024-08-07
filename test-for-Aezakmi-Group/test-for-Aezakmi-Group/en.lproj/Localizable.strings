@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  test-for-Aezakmi-Group
+
+  Created by Dmitrii Imaev on 05.08.2024.
+  
+*/
+"helloAgain" = "Hello Again!";
+"welcomeBack" = "Welcome back, you've been missed";
+"emailText" = "Email";
+"passwordText" = "Password";
+"forgotPassword" = "Forgot Password?";
+"loginText" = "Sign In";
+"orText" = "or";
+"dontHaveAccount" = "Don't have an account? Sign Up";
+"createAccount" = "Create Account";
+"signUpToGetStarted" = "Sign up to get started";
+"confirmPassword" = "Confirm Password";
+"signUpText" = "Sign Up";
+"resetPassword" = "Reset Password";
+"enterEmailForReset" = "Enter your email to receive a reset link";
+"sendResetLink" = "Send Reset Link";
+"welcomeUser" = "Welcome, %@";
+"errorText" = "Error";
+"okText" = "OK";
+"logInWithGoogle" = "Log in with Google";
+"rememberMe" = "Remember me";
+"passwordMismatch" = "Passwords do not match";
+"tapToSelectImage" = "Tap to select an image";
+"selectImage" = "Select Image";
+"takePhoto" = "Take Photo";
+"addText" = "Add Text";
+"applyFilter" = "Apply Filter";
+"save" = "Save";
+"photoEditor" = "Photo Editor";
+"selectFilter" = "Select Filter";
+"passwordReset" = "Password reset link sent to ";
+"cancel" = "Cancel";
+"logInTitle" = "Log In";
+"logInSubtitle" = "to your account";
+"start" = "Start";
+"logOut" = "Log Out";
+"enterText" = "Enter text";
+"blur" = "Blur";
+"photoEditingTitle" = "Photo Editing";
+"add" = "Add";
+"bold" = "Bold";
+"normal" = "Normal";
+"message" = "Message";
+"saved" = "Saved";
+"successSave" = "Successfully saved!";
+"cameraAccess" = "Please enable camera access";
